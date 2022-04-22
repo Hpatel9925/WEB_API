@@ -1,0 +1,17 @@
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\bin\Release\net6.0\ServicesLayer.deps.json
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\bin\Release\net6.0\ServicesLayer.runtimeconfig.json
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\bin\Release\net6.0\ServicesLayer.dll
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\bin\Release\net6.0\ServicesLayer.pdb
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\bin\Release\net6.0\DBContexts.dll
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\bin\Release\net6.0\DBContexts.pdb
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\obj\Release\net6.0\ServicesLayer.csproj.AssemblyReference.cache
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\obj\Release\net6.0\ServicesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\obj\Release\net6.0\ServicesLayer.AssemblyInfoInputs.cache
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\obj\Release\net6.0\ServicesLayer.AssemblyInfo.cs
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\obj\Release\net6.0\ServicesLayer.csproj.CoreCompileInputs.cache
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\obj\Release\net6.0\ServicesLayer.csproj.CopyComplete
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\obj\Release\net6.0\ServicesLayer.dll
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\obj\Release\net6.0\refint\ServicesLayer.dll
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\obj\Release\net6.0\ServicesLayer.pdb
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\obj\Release\net6.0\ServicesLayer.genruntimeconfig.cache
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\ServicesLayer\obj\Release\net6.0\ref\ServicesLayer.dll

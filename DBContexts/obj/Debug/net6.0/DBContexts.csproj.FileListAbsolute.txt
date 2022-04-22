@@ -1,0 +1,14 @@
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\DBContexts\bin\Debug\net6.0\DBContexts.deps.json
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\DBContexts\bin\Debug\net6.0\DBContexts.runtimeconfig.json
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\DBContexts\bin\Debug\net6.0\DBContexts.dll
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\DBContexts\bin\Debug\net6.0\DBContexts.pdb
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\DBContexts\obj\Debug\net6.0\DBContexts.csproj.AssemblyReference.cache
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\DBContexts\obj\Debug\net6.0\DBContexts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\DBContexts\obj\Debug\net6.0\DBContexts.AssemblyInfoInputs.cache
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\DBContexts\obj\Debug\net6.0\DBContexts.AssemblyInfo.cs
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\DBContexts\obj\Debug\net6.0\DBContexts.csproj.CoreCompileInputs.cache
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\DBContexts\obj\Debug\net6.0\DBContexts.dll
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\DBContexts\obj\Debug\net6.0\refint\DBContexts.dll
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\DBContexts\obj\Debug\net6.0\DBContexts.pdb
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\DBContexts\obj\Debug\net6.0\DBContexts.genruntimeconfig.cache
+C:\Users\harshad.patel\source\repos\DemoProject\WEB_API\DBContexts\obj\Debug\net6.0\ref\DBContexts.dll
